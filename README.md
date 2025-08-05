@@ -27,5 +27,4 @@ This project uses a Convolutional Neural Network (CNN) built with TensorFlow and
 
 ---
 
-## 📁 File Structure
 
